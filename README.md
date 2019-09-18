@@ -1,11 +1,14 @@
 # USEFUL BASH | Git | GitHub | TOOLS
 
+
 ## The collection of useful bash/git/github commands
 
-The gold of this project is to learn basic HTML elements.
+---
 
-I decided to use HTML to create simple formated document that complile a list of useful bash, git/github commands and tools that developer use most in software development career.
+The purpose of this project is to work on the folowing:
+1. Practice coding HTML 
+2. Learn to google fu for useful resource
+3. Learn to organize useful resource that will need everyday.
 
-This repo consit of just html pages that serve as a living document so that new useful information will be added to the repository.
-  
 
+This document project is not intented to reproduce the information that are already available online, but only to collect and organize the tools needed in one place to save time on research.
