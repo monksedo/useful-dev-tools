@@ -4,6 +4,6 @@
 
 $ <strong>ls<strong - display files and folders in current directory
 
-$ <strong>ls -al</strong - display all files, folders and hidden files & folders 
+$ <strong>ls -al</strong> - display all files, folders and hidden files & folders 
   
 
